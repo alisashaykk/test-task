@@ -1,5 +1,5 @@
 # test-task
-Тестовое задание для курса "Font-end Development"
+Тестовое задание для курса "Font-end Development"  
 Test task for the course "Front-end Development"  
    
 Шайхетдинова Алиса Раисовна  
